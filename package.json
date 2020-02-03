@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "React E-commerce monorepo",
-  "repository": "https://github.com/viniarruda/react-ecommerce",
+  "repository": "https://github.com/react-shop/react-ecommerce",
   "author": "Vinicius Arruda",
   "scripts": {
     "story": "lerna run story --stream",

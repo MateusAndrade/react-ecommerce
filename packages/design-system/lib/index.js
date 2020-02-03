@@ -6,3 +6,5 @@ exports.Container = web_1.Container;
 exports.Flex = web_1.Flex;
 var globalStyle_1 = require("./utils/theme/globalStyle");
 exports.GlobalStyles = globalStyle_1["default"];
+var native_1 = require("./native");
+exports.Grid = native_1["default"];
