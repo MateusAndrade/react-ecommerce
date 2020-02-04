@@ -1,5 +1,3 @@
-import React from 'react';
-
 import {Grid} from '@react-shop/design-system';
 
 const App = () => {
